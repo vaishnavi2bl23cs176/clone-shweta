@@ -1,0 +1,15 @@
+cd ..
+cd ..
+cd ..
+cd d:
+cd ..
+cd d:
+cd 2bl23cd042
+git init
+nano prog.c
+git add prog1.c
+git commit -m " create new file"
+git init
+nano program.c
+git add program.c
+git commit -m "create new file"
